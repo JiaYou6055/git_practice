@@ -1,0 +1,9 @@
+#include <stdio.h>
+#defind a 10
+
+void main(){
+    print("hello world!, %d", a);
+}
+
+/*hello world function*/
+
